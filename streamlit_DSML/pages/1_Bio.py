@@ -6,8 +6,6 @@ st.title("👋 My Bio")
 # ---------- TODO: Replace with your own info ----------
 NAME = "Ahmed Abdi"
 PROGRAM = "DSML"
-INTRO = (
-        
 
 INTRO = (
     "Hi, I'm Ahmed, a Machine Learning and Data Science student "
@@ -18,7 +16,7 @@ INTRO = (
 )
 
 
-)
+
 FUN_FACTS = [
     "I shoot cinematic videos and photography using a Sony FX30.",
     "I'm interested in how AI and machine learning systems work behind the scenes.",
