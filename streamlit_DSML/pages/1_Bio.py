@@ -9,11 +9,11 @@ PROGRAM = "DSML"
 INTRO = (
         
 INTRO = (
-    "Hi, I'm Ahmed, a Machine Learning and Data Science student "
-    "at MSU Denver. I'm interested in data engineering, machine "
-    "learning systems, and building technology that solves "
-    "real-world problems. Outside of school, I enjoy photography, "
-    "filmmaking, and exploring different cultures."
+        "Hi, I'm Ahmed, a Machine Learning and Data Science student "
+        "at MSU Denver. I'm interested in data engineering, machine "
+        "learning systems, and building technology that solves "
+         "real-world problems. Outside of school, I enjoy photography, "
+         "filmmaking, and exploring different cultures."
 )
 
 )
