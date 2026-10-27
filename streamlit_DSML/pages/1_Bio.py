@@ -7,12 +7,15 @@ st.title("👋 My Bio")
 NAME = "Ahmed Abdi"
 PROGRAM = "DSML"
 INTRO = (
-        "Hi, I'm Ahmed, a Machine Learning and Data Science student "
-    "at MSU Denver. I'm interested in data engineering and machine"
+        
+INTRO = (
+    "Hi, I'm Ahmed, a Machine Learning and Data Science student "
+    "at MSU Denver. I'm interested in data engineering, machine "
     "learning systems, and building technology that solves "
     "real-world problems. Outside of school, I enjoy photography, "
     "filmmaking, and exploring different cultures."
 )
+
 )
 FUN_FACTS = [
     "I shoot cinematic videos and photography using a Sony FX30.",
