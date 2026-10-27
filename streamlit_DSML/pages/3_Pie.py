@@ -23,7 +23,7 @@ fig = px.pie(
     df,
     names="Category",
     values="Count",
-    title="Distribution by Category",
+    title="My Interests",
     hole=0.3
 )
 
